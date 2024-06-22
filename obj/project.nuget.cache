@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AJJfDz7pzHumqNo1mFTfsI8EIU9EbMicZfFpo9X7IP7nQqKT08zEng7SaYaFjKWHDERumF+KXS+fc3hdwCljVQ==",
+  "dgSpecHash": "EKEBsTtzYganormD7jUX/WTldWilJ+JtJpzgTy29EmDT2DfyIIocO6AVh1utfU+AI3pyo2qf8VqZVlRGdaVcYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tornike\\source\\repos\\GoodLinesBus\\AdminPanel\\AdminPanel.csproj",
+  "projectFilePath": "C:\\Users\\Tornike\\source\\repos\\GoodLinesBus\\Adminpanel\\AdminPanel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tornike\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Tornike\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

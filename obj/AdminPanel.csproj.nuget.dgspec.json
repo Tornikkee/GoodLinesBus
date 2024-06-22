@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tornike\\source\\repos\\GoodLinesBus\\AdminPanel\\AdminPanel.csproj": {}
+    "C:\\Users\\Tornike\\source\\repos\\GoodLinesBus\\Adminpanel\\AdminPanel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tornike\\source\\repos\\GoodLinesBus\\AdminPanel\\AdminPanel.csproj": {
+    "C:\\Users\\Tornike\\source\\repos\\GoodLinesBus\\Adminpanel\\AdminPanel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tornike\\source\\repos\\GoodLinesBus\\AdminPanel\\AdminPanel.csproj",
+        "projectUniqueName": "C:\\Users\\Tornike\\source\\repos\\GoodLinesBus\\Adminpanel\\AdminPanel.csproj",
         "projectName": "AdminPanel",
-        "projectPath": "C:\\Users\\Tornike\\source\\repos\\GoodLinesBus\\AdminPanel\\AdminPanel.csproj",
+        "projectPath": "C:\\Users\\Tornike\\source\\repos\\GoodLinesBus\\Adminpanel\\AdminPanel.csproj",
         "packagesPath": "C:\\Users\\Tornike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tornike\\source\\repos\\GoodLinesBus\\AdminPanel\\obj\\",
+        "outputPath": "C:\\Users\\Tornike\\source\\repos\\GoodLinesBus\\Adminpanel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
