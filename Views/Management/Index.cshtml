@@ -1,0 +1,36 @@
+﻿@model IEnumerable<ApplicationUser>
+
+@{
+    ViewBag.Title = "User Management";
+}
+
+<h2>User Management</h2>
+
+<p>
+    <a href="@Url.Action("Create", "UserManagement")" class="btn btn-primary">Create New User</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.UserName</td>
+                <td>@user.Email</td>
+                <td>
+                    <a href="@Url.Action("Edit", "UserManagement", new { id = user.Id })" class="btn btn-warning">Edit</a>
+                    <a href="@Url.Action("Delete", "UserManagement", new { id = user.Id })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

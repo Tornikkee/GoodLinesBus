@@ -1,0 +1,44 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.navbar .btn-custom {
+    background-color: #ffffff; /* Adjust the color to match your navbar */
+    border: none;
+    color: #000000; /* Adjust the text color */
+}
+
+.navbar .btn-custom-login {
+    background-color: #ffffff; /* Same color as the navbar */
+    border: none;
+    color: #000000; /* Adjust the text color */
+}
+
+.navbar .btn-custom:hover {
+    background-color: #000000; /* Adjust to the hover color you want */
+    color: #ffffff; /* Adjust to the hover text color you want */
+}
+
+.navbar .btn-custom-login:hover {
+    background-color: #28a745; /* Green color on hover */
+    color: #ffffff; /* Adjust to the hover text color you want */
+}
